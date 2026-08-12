@@ -1,13 +1,158 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building scalable backend systems with Node.js, NestJS, and TypeScript while pursuing my M.Sc. in Applied Computer Science in Germany. I’m also improving my system design and distributed systems knowledge.<br><br>👯 I’m looking to collaborate on<br>Open-source projects related to backend development, microservices architecture, developer tools, and scalable web applications.<br><br>🤝 I’m looking for help with<br>Advanced system design, distributed systems, and opportunities to contribute to real-world backend-heavy projects.<br><br>🌱 I’m currently learning<br>System Design, scalable architecture patterns, cloud fundamentals (Docker, CI/CD), and improving my backend engineering skills.<br><br>💬 Ask me about<br>Node.js, NestJS, TypeScript, REST API design, full-stack development, and building production-ready backend systems.<br><br>⚡ Fun fact<br>I transitioned from full-time software development to pursuing a master’s degree in Germany to deepen my engineering and system design expertise.
+# 👋 Hi, I'm Anikit Kumar Chaudhary
 
+### Software Engineer · Backend & Full-Stack Development
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aniikiit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anikit013) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anikit781@gmail.com) 
+I'm a **Software Engineer with 3.5+ years of professional experience** building scalable backend and full-stack applications for enterprise telecommunications and logistics platforms.
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+Currently pursuing an **M.Sc. in Applied Computer Science at Hochschule Schmalkalden, Germany**, while working on software projects and contributing to open-source development.
 
+I enjoy building reliable APIs, designing scalable services, solving performance problems, and turning ideas into production-ready software.
 
-[![](https://visitcount.itsvg.in/api?id=anikit013&icon=0&color=4)](https://visitcount.itsvg.in)
+---
 
+## 🚀 What I'm working on
+
+🔭 **HSM Developer Hub**
+A community and events platform for Hochschule Schmalkalden students.
+
+Working with:
+
+`React` · `TypeScript` · `Tailwind CSS` · `Supabase` · `Prisma` · `PostgreSQL`
+
+🌱 Currently deepening my knowledge of:
+
+* System Design
+* Distributed Systems
+* Microservices Architecture
+* Cloud & DevOps
+* Scalable Backend Engineering
+* AI-assisted Software Development
+
+---
+
+## 💼 Professional Experience
+
+I have worked on production systems in **telecommunications, logistics and enterprise software**.
+
+Some highlights:
+
+* ⚡ Improved API response times from **~800ms → ~150ms**
+* 📈 Worked on platforms serving **5M+ subscribers**
+* 🔗 Built REST APIs integrating **6+ external systems**
+* 🚀 Reduced integration failure points by approximately **30%**
+* 🔐 Implemented **OAuth2, JWT, RBAC and audit logging**
+* 🐳 Containerised services using **Docker**
+* ⚙️ Automated deployments with **Jenkins CI/CD**
+* ☁️ Worked with **AWS EC2, S3 and Lambda**
+* 👨‍💻 Mentored junior developers and supported production incidents
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-6C5CE7?style=flat-square)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square\&logo=angular\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square\&logo=oracle\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonwebservices\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square\&logo=jenkins\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+
+### Security & Testing
+
+![OAuth2](https://img.shields.io/badge/OAuth2-000000?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square\&logo=jsonwebtokens\&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square\&logo=junit5\&logoColor=white)
+
+---
+
+## ⭐ Featured Projects
+
+### 🏫 HSM Developer Hub
+
+Community & Events Platform for Hochschule Schmalkalden.
+
+**Tech:** React · TypeScript · Tailwind CSS · Supabase · Prisma · PostgreSQL · Git
+
+[View Repository →](https://github.com/anikit013/hsm-developer-hub)
+
+---
+
+### 🌍 Air Quality Index Prediction
+
+Machine-learning project for predicting Air Quality Index values from environmental sensor data.
+
+**Tech:** Python · Scikit-learn · XGBoost · Random Forest · Pandas · Web Scraping
+
+[View Repository →](https://github.com/anikit013/Air-Quality-Index-Machine-Learning)
+
+---
+
+## 📚 Currently Learning
+
+```text
+System Design
+      ↓
+Distributed Systems
+      ↓
+Scalable Architecture
+      ↓
+Cloud & DevOps
+      ↓
+Production-Ready Software
+```
+
+I believe good software is not just about writing code — it's about understanding **performance, reliability, maintainability and the problems users actually need solved.**
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in collaborating on:
+
+* Backend engineering projects
+* Microservices
+* Full-stack applications
+* Developer tools
+* Open-source projects
+* Scalable web applications
+
+### 🌐 Find me online
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/anikit013)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/anikit013)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:anikit781@gmail.com)
+
+---
+
+### 💡 Open to opportunities
+
+**Software Engineering · Backend Engineering · Full-Stack Development · Java/Spring Boot · Working Student / Werkstudent roles**
+
+📍 Germany
+
+---
+
+⭐ If you find something interesting in my repositories, feel free to explore, connect, or collaborate!
